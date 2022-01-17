@@ -58,17 +58,3 @@ There are also a small selection of videos in this repo to allow you to test the
 ## How fast is my song? What is my songs BPM?
 
 - https://www.beatsperminuteonline.com/
-
-## Richard, this thing is so slow it's making my head spin. I could do it way faster in Generic X movie editing software!
-
-- Look, fair. My counter to that is you can leave and eat a sandwhich, call a loved one etc rather than have to sit through the the video editing process.
-- You may have luck speeding it up by using smaller pool of scaffold videos, or using the --dynamic False flag if you only need tempo synced visuals. 
-- My runtimes are generally ~60 - 70 minutes per super loud song (16gb RAM). More RAM allows more videos to be loaded into memory and speeds up the process significantly. I acknowlege that this is nowhere near optimal performance, this is my first proper project. I am more than happy to collaborate with this project going forward.   
-
-## I've used this to make videos that now have billions of hits, how can I credit you?
-
-- A public link to this repo in the description would be appreciated :) 
-
-## I run a company looking for a programmer like you, would you be interested in a position?
-
-- Please get in contact: richardpienaar1@gmail.com
